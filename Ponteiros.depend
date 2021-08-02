@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1581175659 source:c:\users\lhsac\desktop\ponteiros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1616677453 source:c:\users\lhsac\onedrive - ifsp.edu.br\sacchi\academico\ifsp\disciplinas\esdc3\projetos-c\ponteiros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
